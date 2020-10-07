@@ -8,6 +8,10 @@ Skill Level Hourly Pay Rate (In Rupees)
 1            170
 2            200
 3            450
+4            750
+5            1000
+6            1250
+7            1500
 
 Each factory worker might work any number of hours per week; any hours over 40 are
 paid at one and a half times the usual rate. In addition, workers in skill levels 2 and 3 can
@@ -18,6 +22,8 @@ Option Description Weekly Cost to Employee
 1 Medical Insurance 32.50
 2 Dental Insurance 20.00
 3 Long Term Insurance 10.00
+4 Average salary
+5 calculate cosine
 
 Make an interactive Java payroll GUI application* that calculates the net pay for given factory
 workers. All the basic information of the employees must be provided in the class
